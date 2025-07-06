@@ -33,7 +33,7 @@ export default function About() {
                 About Our Fire Safety Excellence
               </h2>
               <p className="mt-6 text-lg leading-8 text-gray-600">
-                With over two decades of experience, we've been at the forefront of fire safety consultancy, 
+                With over two decades of experience, we&apos;ve been at the forefront of fire safety consultancy, 
                 protecting businesses and saving lives through expert guidance and innovative solutions.
               </p>
               <dl className="mt-10 max-w-xl space-y-8 text-base leading-7 text-gray-600 lg:max-w-none">

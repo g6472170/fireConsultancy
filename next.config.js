@@ -24,9 +24,6 @@ const nextConfig = {
       'ifss-coalition.org'
     ],
   },
-  experimental: {
-    serverActions: true,
-  },
 }
 
 module.exports = nextConfig 
